@@ -7,7 +7,7 @@ terceiros no nome); cite o Crunchyroll só na descrição.
 
 ## Chrome Web Store
 
-**Nome:** Picture-in-Picture Unlocker – PiP em qualquer vídeo
+**Nome:** Picture-in-Picture Unlocker
 
 **Resumo (máx. 132 caracteres):**
 Libera o Picture-in-Picture em todos os vídeos. Feito para o Crunchyroll (player em iframe), funciona em qualquer site.
@@ -66,7 +66,7 @@ Used only to save the user's preferences (mode and site list) in browser storage
 
 ## Firefox Add-ons (AMO)
 
-**Nome:** Picture-in-Picture Unlocker – PiP em qualquer vídeo
+**Nome:** Picture-in-Picture Unlocker
 
 **Resumo (máx. 250 caracteres):**
 Libera o botão de Picture-in-Picture em todos os vídeos, inclusive em players dentro de iframes como o do Crunchyroll. Sem configuração, sem coleta de dados.
@@ -96,7 +96,7 @@ main-world.js runs in the page's main world only to override the disablePictureI
 
 ## English version (for the second language on both stores)
 
-**Name:** Picture-in-Picture Unlocker – PiP on any video
+**Name:** Picture-in-Picture Unlocker
 
 **Summary:**
 Unlocks Picture-in-Picture on every video. Built for Crunchyroll (player inside an iframe), works on any site.
