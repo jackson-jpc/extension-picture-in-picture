@@ -1,0 +1,35 @@
+{
+  "extName": {
+    "message": "Picture-in-Picture Unlocker – PiP em qualquer vídeo"
+  },
+  "extDescription": {
+    "message": "Libera o Picture-in-Picture em todos os vídeos. Feito para o Crunchyroll (player em iframe), funciona em qualquer site."
+  },
+  "pipButtonTitle": {
+    "message": "Picture-in-Picture (Alt+P)"
+  },
+  "optModeLegend": {
+    "message": "Onde liberar o Picture-in-Picture"
+  },
+  "optModeAll": {
+    "message": "Em todos os sites (padrão)"
+  },
+  "optModeList": {
+    "message": "Somente nos sites da lista abaixo"
+  },
+  "optModeExcept": {
+    "message": "Em todos os sites, exceto os da lista abaixo"
+  },
+  "optSitesLegend": {
+    "message": "Lista de sites"
+  },
+  "optSitesHint": {
+    "message": "Um domínio por linha. Subdomínios são incluídos automaticamente (crunchyroll.com também vale para static.crunchyroll.com). As páginas já abertas precisam ser recarregadas."
+  },
+  "optSave": {
+    "message": "Salvar"
+  },
+  "optSaved": {
+    "message": "Salvo."
+  }
+}

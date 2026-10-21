@@ -1,0 +1,14 @@
+{
+  "browser_specific_settings": {
+    "gecko": {
+      "id": "pip-unlocker@jackson-jpc.github.io",
+      "strict_min_version": "128.0",
+      "data_collection_permissions": {
+        "required": [
+          "none"
+        ]
+      }
+    }
+  },
+  "author": "Jackson Alves"
+}
