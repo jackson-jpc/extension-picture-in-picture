@@ -99,9 +99,14 @@ STORE_LISTING.md     textos prontos para a Chrome Web Store e o Firefox Add-ons
 Este projeto não tem relação com a Crunchyroll, LLC. "Crunchyroll" é marca registrada de seus
 respectivos donos e é citada apenas para descrever a compatibilidade.
 
+## Autor
+
+Feito por **Jackson Alves** ([@jackson-jpc](https://github.com/jackson-jpc)). Ícone e arte também de autoria própria.
+Sugestões e problemas: abra uma [issue](../../issues).
+
 ## Licença
 
-[MIT](LICENSE)
+[MIT](LICENSE) © 2026 Jackson Alves
 
 ---
 
@@ -112,4 +117,4 @@ iframe and creates the `<video>` late) sets `disablepictureinpicture`, hiding th
 button. This extension runs in all frames at `document_start`, removes the attribute and prevents
 the page from setting it again. On Firefox the native PiP toggle reappears; on Chromium browsers a
 floating button and the `Alt+P` shortcut are provided. The only permission is `storage` (for the options); no network, no telemetry.
-Not affiliated with Crunchyroll, LLC. MIT licensed.
+Made by **Jackson Alves** ([@jackson-jpc](https://github.com/jackson-jpc)). Not affiliated with Crunchyroll, LLC. MIT licensed.
